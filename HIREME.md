@@ -32,7 +32,7 @@ At my last non-programming job, I automated away enough of my own workflow (usin
 
 None of these are hard lines—I'll take what I can get. Even a remote job for a startup of dubious value is better than no job at all. (I won't work for the military though.)
 
-It also doesn't have to be a web development job, even though that's where my training is focused. I feel confident in my ability to branch out.
+It also doesn't have to be a web development position, even though that's where my training is focused. I feel confident in my ability to branch out.
 
 ## Technologies
 
