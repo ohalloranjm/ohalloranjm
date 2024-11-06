@@ -18,7 +18,7 @@ I'm a full-stack web developer trained at App Academy. I'm one of only ~5 people
 
 ### Accomplishments
 
-[Tatterpig](https://tatterpig.onrender.com/) ([repo](https://github.com/ohalloranjm/tatterpig)) is the culmination of my App Academy training, a full-stack web app for managing TTRPG character sheets, built with Express, Sequelize, and React. Its core functionality and backend are relatively straightforward; I'm proudest of the frontend and UX design.
+[Tatterpig](https://github.com/ohalloranjm/tatterpig) is the culmination of my App Academy training, a full-stack web app for managing TTRPG character sheets, built with Express, Sequelize, and React. Its core functionality and backend are relatively straightforward; I'm proudest of the frontend and UX design.
 
 [Momo](https://github.com/ohalloranjm/momo) is a Discord bot assistant for _Avatar Legends: The Roleplaying Game_ built with Discord.js and Sequelize. It rolls dice and tracks character stats.
 
@@ -31,7 +31,7 @@ At my last non-programming job, I automated away enough of my own workflow (usin
 - Good and Useful Product > Product of Dubious Value > No Job
 - No Job > Working for the Military
 
-As you can see, I don't have many hard lines: a remote position at a dubious startup is still better than no position at all. I'll take what I can get, as long as it's not the military.
+As you can see, I don't have many hard lines. A remote position at a dubious startup is still better than no position at all. I'll take what I can get (just not the military).
 
 ## Technologies
 
