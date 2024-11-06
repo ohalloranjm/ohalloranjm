@@ -29,9 +29,10 @@ At my last non-programming job, I automated away enough of my own workflow (usin
 - In Person or Hybrid > Remote > No Job
 - Established Company > Startup > No Job
 - Good and Useful Product > Product of Dubious Value > No Job
-- No Job > Working for the Military
 
-As you can see, I don't have many hard lines. A remote position at a dubious startup is still better than no position at all. I'll take what I can get (just not the military).
+None of these are hard lines—I'll take what I can get. (I won't work for the military though.)
+
+It also doesn't have to be a web development job, even though that's where my training is focused. I feel confident in my ability to branch out and learn new technologies.
 
 ## Technologies
 
