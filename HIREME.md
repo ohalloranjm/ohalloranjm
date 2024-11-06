@@ -30,9 +30,9 @@ At my last non-programming job, I automated away enough of my own workflow (usin
 - Established Company > Startup > No Job
 - Good and Useful Product > Product of Dubious Value > No Job
 
-None of these are hard lines—I'll take what I can get. (I won't work for the military though.)
+None of these are hard lines—I'll take what I can get. Even a remote job for a startup of dubious value is better than no job at all. (I won't work for the military though.)
 
-It also doesn't have to be a web development job, even though that's where my training is focused. I feel confident in my ability to branch out and learn new technologies.
+It also doesn't have to be a web development job, even though that's where my training is focused. I feel confident in my ability to branch out.
 
 ## Technologies
 
