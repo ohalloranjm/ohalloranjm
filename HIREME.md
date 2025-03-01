@@ -26,7 +26,7 @@ At my last non-programming job, I automated away enough of my own workflow (usin
 
 ## What I Want
 
-- In Person or Hybrid > Remote > No Job
+- In Person (SF Bay) or Hybrid > Remote > No Job
 - Established Company > Startup > No Job
 - Good and Useful Product > Product of Dubious Value > No Job
 
