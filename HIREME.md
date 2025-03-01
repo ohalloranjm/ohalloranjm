@@ -1,6 +1,6 @@
 # Help me get hired!
 
-[GitHub](https://github.com/ohalloranjm) | [Portfolio](https://ohalloranjm.github.io/) | [LinkedIn](https://www.linkedin.com/in/joy-ohalloran/) | [Resume](https://ohalloranjm.github.io/assets/resume.pdf)
+[GitHub](https://github.com/ohalloranjm) | [Portfolio](https://ohalloranjm.github.io/) | [LinkedIn](https://www.linkedin.com/in/joy-ohalloran/) | [Resume](https://ohalloranjm.github.io/resume.pdf)
 
 I'm a newly trained programmer looking for my first software development job. If you…
 
